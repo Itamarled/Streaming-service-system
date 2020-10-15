@@ -31,14 +31,14 @@ user for the next content.
 ## Launch
 Choose the config file you would like to run, and change it's name to config.json.</br> 
 There are two options available for you to choose from, that also can be used as tamplates to make a new config file.</br>
-## In Windows open the cmd in the project directory and run the next commend:</br>
+#### In Windows open the cmd in the project directory and run the next commend:</br>
 #### Compile
 > g++ -g -Wall -c -Include src/main.cpp src/Action.cpp src/Session.cpp src/User.cpp src/Watchable.cpp </br>
 #### Build
 > g++ -o splflix.exe src/main.cpp src/Action.cpp src/Session.cpp src/User.cpp src/Watchable.cpp
 #### Run
 >  splflix.exe config.json </br> 
-## In Linux open the terminal in the project directory and run the next commend:</br>
+#### In Linux open the terminal in the project directory and run the next commend:</br>
 #### Compile&Build
 > make </br>
 #### Run
