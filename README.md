@@ -1,5 +1,5 @@
 # Project Name
-> Here goes your awesome project description!
+> SPLFLIX Streaming-service-system
 
 ## Table of contents
 * [General info](#general-info)
@@ -34,7 +34,7 @@ There are two options available for you to choose from, that also can be used as
 In Windows open the cmd in the project directory and run the next commend:</br>
 #### Compile
 > g++ -g -Wall -c -Include src/main.cpp src/Action.cpp src/Session.cpp src/User.cpp src/Watchable.cpp </br>
-####Build
+#### Build
 > g++ -o splflix.exe src/main.cpp src/Action.cpp src/Session.cpp src/User.cpp src/Watchable.cpp
 #### Run
 >  splflix.exe config.json </br>
