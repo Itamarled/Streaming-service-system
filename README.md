@@ -74,7 +74,7 @@ the folder file in which the Output file resieds in tells you which config file 
 
 
 
-##Goals
+## Goals
 The goal of this project is to design an object-oriented system and gain
 implementation experience in C++ while using classes, standard data structures and unique
 C++ properties while maintainning a progrem without memory leaks.  
