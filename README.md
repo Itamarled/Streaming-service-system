@@ -5,8 +5,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Launch](#launch)
-* [Inspiration](#inspiration)
 * [Goals](#Goals)
+* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
