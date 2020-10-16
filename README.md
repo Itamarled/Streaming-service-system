@@ -46,10 +46,11 @@ There are two options available for you to choose from, that also can be used as
 
 #### Input explanation
 After you start SPLFLIX in the cmd\terminal, the program will print a message "SPLFLIX is now on", afterwards the program would accept any of the next input text below:</br>
-Syntax: createuser <user_name> <recommendation_algorithm>, Where the recommendation_algorithm is one of the next 3 options:</br>
-* gen - recommendation by genere
-* len - recommendation by length of video
-* rer - rewatch using the user watch history.</br>
+* Create a user:
+	* Syntax: createuser <user_name> <recommendation_algorithm>, Where the recommendation_algorithm is one of the next 3 options:</br>
+		* gen - recommendation by genere
+		* len - recommendation by length of video
+		* rer - rewatch using the user watch history.</br>
 After creating a user you could use any of the next commends:</br>
 * Change Active User– Changes the current active user.
 	* Syntax: changeuser <user_name>
