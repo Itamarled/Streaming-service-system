@@ -45,13 +45,13 @@ There are two options available for you to choose from, that also can be used as
 > ./bin/splflix config.json 
 
 #### Input explanation
-After you start SPLFLIX in the cmd\terminal, the program will print a message "SPLFLIX is now on", afterwards the program would accept any of the next input text below:</br>
+> After you start SPLFLIX in the cmd\terminal, the program will print a message "SPLFLIX is now on", afterwards the program would accept any of the next input text below:</br>
 * Create a user:
 	* Syntax: createuser <user_name> <recommendation_algorithm>, Where the recommendation_algorithm is one of the next 3 options:</br>
 		* gen - recommendation by genere
 		* len - recommendation by length of video
-		* rer - rewatch using the user watch history.
-After creating a user you could use any of the next commends:</br>
+		* rer - rewatch using the user watch history.</br>
+> After creating a user you could use any of the next commends:</br>
 * Change Active User– Changes the current active user.
 	* Syntax: changeuser <user_name>
 * Delete User – Removes a given user
