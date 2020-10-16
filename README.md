@@ -50,7 +50,7 @@ After you start SPLFLIX in the cmd\terminal, the program will print a message "S
 	* Syntax: createuser <user_name> <recommendation_algorithm>, Where the recommendation_algorithm is one of the next 3 options:</br>
 		* gen - recommendation by genere
 		* len - recommendation by length of video
-		* rer - rewatch using the user watch history.</br>
+		* rer - rewatch using the user watch history.
 After creating a user you could use any of the next commends:</br>
 * Change Active User– Changes the current active user.
 	* Syntax: changeuser <user_name>
